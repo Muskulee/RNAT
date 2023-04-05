@@ -3,9 +3,12 @@
 
 Download, anyhow you know. Just get it from this repo.
 
-In your project terminal, Install the project dependencies by running the command:
+In your project terminal, install the project dependencies by running the command:
 
 > yarn install
+
+Then, run the command 
+> npx pod-install
 
 ## How To Change App Name
 In Package.json change the app name: 
@@ -58,6 +61,8 @@ Change the module name
 
 	e.g self.moduleName = @"YOUR_APP_NAME";
 	
+Then rbuild the ios debug app
+
 
 ## Splashscreen
 
