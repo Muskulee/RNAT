@@ -13,7 +13,7 @@ Then, run the command
 ## How To Change App Name
 In Package.json change the app name: 
 
-"name": "Whatever You Want To Anme Your App Goes Here",
+"name": "Whatever You Want To Name Your App Goes Here",
 
 ## For Android: 
 
